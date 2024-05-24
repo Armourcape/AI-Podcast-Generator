@@ -1,6 +1,8 @@
 # AI-Podcast-Generator
 Ever wondered what a conversation between Rick Sanchez from "Rick and Morty" and Barack Obama would sound like? This project does just that using artificial itelligence. This project creates a short podcast where these two characters engage in lively banter. Just run the script, sit back, and enjoy the show!
 
+![RickAndObamaPodcast](https://github.com/Armourcape/AI-Podcast-Generator/assets/90896462/83be4708-e449-46ce-bc78-178444e45f61)
+
 ## Additional Information
 
 
