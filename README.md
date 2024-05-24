@@ -1,8 +1,11 @@
-# AI-Podcast-Generator-with-Rick-Sanchez-and-Barack-Obama
+# AI-Podcast-Generator
 Ever wondered what a conversation between Rick Sanchez from "Rick and Morty" and Barack Obama would sound like? This project does just that using artificial itelligence. This project creates a short podcast where these two characters engage in lively banter. Just run the script, sit back, and enjoy the show!
 
-![Uploading image.png…]()
+## Additional Information
 
+* **Supported Characters & Their FakeYou Voice IDs:**  
+  - Rick Sanchez: `weight_0f762jdzgsy1dhpb86qxy4ssm`
+  - Barack Obama: `weight_8f3r8hwt0j58j68ayzzfgsh8h`
 
 ## Project Description
 
@@ -27,9 +30,4 @@ This project uses AI to produce a podcast featuring Rick Sanchez from "Rick and 
    - Obtain a Groq API key and provide your FakeYou email and password.
 3. **Run the Script:**  
    - Execute the provided Python script in a Colab runtime to generate and save the podcast as `podcast.wav`.
-
-## Additional Information
-
-* **Voice IDs:**  
-  - Rick Sanchez: `weight_0f762jdzgsy1dhpb86qxy4ssm`
-  - Barack Obama: `weight_8f3r8hwt0j58j68ayzzfgsh8h`
+   - 
