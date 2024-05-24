@@ -30,4 +30,8 @@ This project uses AI to produce a podcast featuring Rick Sanchez from "Rick and 
    - Obtain a Groq API key and provide your FakeYou email and password.
 3. **Run the Script:**  
    - Execute the provided Python script in a Colab runtime to generate and save the podcast as `podcast.wav`.
-   - 
+  
+## Contact
+
+For any inquiries or assistance, you can reach me at:
+* pveekshithrao@gmail.com
